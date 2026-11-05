@@ -1,0 +1,7 @@
+[
+{"id":1,"imgRes":"SceneImg/GameScene1","name":"静谧树林","sceneName":"GameScene1","tips":"这是一片古老的树林，静谧而又宁静，有人说这是自然亡魂最后的归属地，也有人说这是无数尸骸的坟埋场，而在树林的深处能听到时不时发出的撕咬声...","towerHp":100,"money":"200"},
+{"id":2,"imgRes":"SceneImg/GameScene2","name":"极寒雪地","sceneName":"GameScene2","tips":"在这片寒冷而又雪白的土地上，看到的只有被鲜血染红的雪地，以及同伴即将化为丧尸前，狰狞的模样","towerHp":100,"money":"200"},
+{"id":3,"imgRes":"SceneImg/GameScene3","name":"熔岩旱土","sceneName":"GameScene3","tips":"焦热而又干旱是它的代名词，似乎不需要丧尸，在这停留片刻就能被这烈阳烤干为一具干尸","towerHp":100,"money":"200"},
+{"id":4,"imgRes":"SceneImg/GameScene4","name":"未知???","sceneName":"GameScene4","tips":"一张男子的图片，图片中的男子长相圆润，似乎有着能够吸引中年妇女的气质，除此之外就没有什么特别的地方了...不知道作者加这张图是何意味","towerHp":100,"money":"???"},
+{"id":5,"imgRes":"SceneImg/GameScene5","name":"未知???","sceneName":"GameScene5","tips":"一张男子的图片，图片中的男子长相猥琐，似乎有着成为弱智的潜能，除此之外就没什么特别的地方了...不知道作者加这张图是何意味","towerHp":100,"money":"???"}
+]

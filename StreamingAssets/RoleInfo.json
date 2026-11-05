@@ -1,0 +1,9 @@
+[
+{"id":1,"res":"Role/1","defaultWeapon":4,"lockMoney":0,"hp":100,"tips":"僵尸猎手","type":1,"hitEff":"eff/1","atk":10},
+{"id":2,"res":"Role/2","defaultWeapon":4,"lockMoney":100,"hp":100,"tips":"真理","type":2,"hitEff":"eff/1","atk":12},
+{"id":3,"res":"Role/3","defaultWeapon":4,"lockMoney":200,"hp":100,"tips":"赏金猎人","type":2,"hitEff":"eff/1","atk":14},
+{"id":4,"res":"Role/4","defaultWeapon":4,"lockMoney":50,"hp":100,"tips":"恶魔低语","type":1,"hitEff":"eff/1","atk":15},
+{"id":5,"res":"Role/5","defaultWeapon":4,"lockMoney":500,"hp":100,"tips":"上帝重机枪","type":2,"hitEff":"eff/1","atk":15},
+{"id":6,"res":"Role/6","defaultWeapon":2,"lockMoney":300,"hp":100,"tips":"弱智代表作--pzy","type":2,"hitEff":"eff/1","atk":20},
+{"id":7,"res":"Role/7","defaultWeapon":3,"lockMoney":400,"hp":100,"tips":"富婆狩猎者--czh","type":2,"hitEff":"eff/1","atk":23}
+]
